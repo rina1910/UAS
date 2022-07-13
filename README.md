@@ -5,3 +5,8 @@
 | <strong>Kelas</strong> | <strong>TI.20.A.1</strong> |
 
 # UAS
+
+## Link
+
+- [Dokumentasi]()
+- [Demo program](http://sistemantrianriris.epizy.com/)
