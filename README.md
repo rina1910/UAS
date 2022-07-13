@@ -9,7 +9,7 @@
 ## Link
 
 - [Dokumentasi Sistem]()
-- [Demo Aplikasi;](http://sistemantrianriris.epizy.com/antrianno)
+- [Demo Aplikasi;](http://sistemantrianriris.epizy.com/)
 
 <p>Untuk melakukan Program ini harus instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara
 manual dan menggunakan <b>composer</b>. Pada praktikum ini kita menggunakan cara composer.
