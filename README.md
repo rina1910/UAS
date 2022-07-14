@@ -8,15 +8,15 @@
 
 ## Link
 
-- [Dokumentasi Sistem]()
+- [Dokumentasi Sistem](https://youtu.be/egYWeSfUdxc)
 - [Demo Aplikasi;](http://sistemantrianriris.epizy.com/)
 
 <p>Untuk melakukan Program ini harus instalasi Codeigniter 4 dapat dilakukan dengan dua cara, yaitu cara
 manual dan menggunakan <b>composer</b>. Pada praktikum ini kita menggunakan cara composer.
+</p> Setelah itu buka <b>XAMPP</b></p>
 
 ![](xampp.png)
 
-</p> Setelah itu buka ``XAMPP``
 <p>klik shell, kemudian ketik: </p>
 
 ```php
@@ -36,3 +36,9 @@ php spark serve
 ```
 http://localhost:8080
 ```
+
+<p> Saya membuat webhosting dari ( https://app.infinityfree.net/ )</p>
+
+<p> Untuk Upload data ke webhosting saya menggunakan filezilla Client</p>
+
+![](filezilla.png)
